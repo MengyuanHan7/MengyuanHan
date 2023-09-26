@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kendrick272
-- 👀 I’m interested in Java, C++
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @JaxHan
+- 👀 I’m interested in Python, R and C++
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Remote Jobs
 - 📫 How to reach me: hanmengyuan826@gmail.com
 
