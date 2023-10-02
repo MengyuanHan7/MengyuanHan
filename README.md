@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaxHan
+- 👋 Hi, I’m @Mengyuan Han
 - 👀 I’m interested in Python, R and C++
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Remote Jobs
